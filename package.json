@@ -1,0 +1,12 @@
+{
+	"dependencies": {
+		"@tsparticles/engine": "^3.5.0",
+		"@tsparticles/react": "^3.0.0",
+		"gsap": "^3.12.5",
+		"prop-types": "^15.8.1",
+		"tsparticles": "^3.5.0"
+	},
+	"devDependencies": {
+		"@types/prop-types": "^15.7.13"
+	}
+}
